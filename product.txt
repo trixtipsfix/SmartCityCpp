@@ -1,0 +1,5 @@
+1, Apple, 100
+2, Soap, 50
+3, Mango, 150
+1, 2, 2
+5, SHAMPOO, 120

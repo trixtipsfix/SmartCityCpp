@@ -1,0 +1,13 @@
+1	HU119	English Comprehension and Composition	3-0-3	
+
+2	CY102	Introduction to Cyber security	        3-0-3	
+
+3	MA216	Discrete Structures	                3-0-3	
+
+4	CS180	Introduction to ICT	                2-0-2	
+
+5       CS180L 	Introduction to ICT Lab			0-1-1	
+
+5	CS111	Programming Fundamentals		3-0-3	
+
+6	CS111L  Programming Fundamentals LaB            2-0-2

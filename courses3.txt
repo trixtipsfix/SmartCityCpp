@@ -1,0 +1,17 @@
+1	CY371	Software Engineering	        3-0-3	
+
+2	HU124	Islamic Studies and Ethics	2-0-2	
+
+3	MA201	Linear Algebra	                3-0-3	
+
+4	CS214	Data Structure & Algorithm	3-0-3	
+	
+        CS214L  Data Structure & Algorithm Lab	2-0-2
+
+5	MA110	Calculus & Analytical Geometry	3-0-3	
+
+6       CY222L	Network Security	        2-0-2	
+
+Credits Hours=18
+Contact Hours=22	
+

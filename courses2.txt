@@ -1,0 +1,23 @@
+1	CS360	 Computer Networks	         3-0-3	
+	           
+        CS360L   Computer Networks Lab	         0-1-1	
+
+2	CY103	 Information Assurance	         3-0-3	
+
+3	CS 112	 Object Oriented Programming     3-0-3	
+	
+        0-1-1    Object Oriented Programming Lab
+	  
+
+4	MA301	 Probability and Statistics	3-0-3	
+
+5	EE223	 Digital Logic Design	        3-0-3	
+	
+        EE223L   Digital Logic Design Lab        0-1-1	
+
+
+Credit Hours = 18
+Contact Hours = 24
+
+
+
